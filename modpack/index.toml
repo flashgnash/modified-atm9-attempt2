@@ -3916,11 +3916,6 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "933c86e510ff6257d52647e31dc07cda8c8955bc616c9c158dd65b74d2e45e98"
 metafile = true
@@ -4157,11 +4152,6 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "eda88d895232fa88c15851fa23225bf51e5ef006505e9a48d437f00635eb03e6"
-metafile = true
-
-[[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "136205914a8e3370ac4ab6d4f1a14d755921c176964867fef8d4ca945e32515f"
 metafile = true
 
 [[files]]
@@ -5672,11 +5662,6 @@ metafile = true
 [[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
-metafile = true
-
-[[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "f682fdce5007b2cc228712342f981beb4ef2efa0a7df29f7ee7f3d3fd0ace9e9"
 metafile = true
 
 [[files]]
