@@ -1,13 +1,13 @@
-name = "Clockwork"
-filename = "clockwork-0.5.4.6.jar"
+name = "VS: Clockwork"
+filename = "clockwork-0.5.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/84USeAvk/versions/IP7OOk86/clockwork-0.5.4.6.jar"
-hash-format = "sha512"
-hash = "0482fac74cb6c0efe394e8ab8eaaadb5dc2991b055420c94f66a3d23af5367d9e54951655afba9224d01cf023835aab86dfbcf183adf2af0f825108d7a7a24bb"
+hash-format = "sha1"
+hash = "6442f203c88a6f8897bac5445975fde91d4570b0"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "84USeAvk"
-version = "IP7OOk86"
+[update.curseforge]
+file-id = 7451190
+project-id = 807792
