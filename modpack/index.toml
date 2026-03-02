@@ -3921,6 +3921,11 @@ hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "933c86e510ff6257d52647e31dc07cda8c8955bc616c9c158dd65b74d2e45e98"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f8b6ef08945410e1341212a2723477487fb66a2c8fd67dd201433658791d298d"
 metafile = true
@@ -4436,7 +4441,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "20f97407b947f060dca843437c9d4c75f3eec8fd8747160c3d241dbd6c625f49"
+hash = "0b2a1719c0470efdf7d5674df5b665183f927c90d00b579e3a1eb27024f31570"
 metafile = true
 
 [[files]]
@@ -5041,7 +5046,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "18155f139f536592c795f18eae975a82b0200f800693e873316b9157efb6df7b"
+hash = "869c69737f60d1009b4f40b84409326170f2a1b6c327fc333854e5e8cb90d294"
 metafile = true
 
 [[files]]
@@ -5506,7 +5511,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+hash = "0452ea33020c62f7ec06b88cfd5dd9f33d8923d68ecd1512132730e388eb4bf5"
 metafile = true
 
 [[files]]
@@ -5662,6 +5667,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "7e37bb58283ca8e9e060d387e130e0410399ab3395a2266ac5cc063dd7503e0b"
 metafile = true
 
 [[files]]
