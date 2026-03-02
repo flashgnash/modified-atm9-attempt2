@@ -4200,6 +4200,11 @@ hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "5021b4a0f5474201447787ebe98a5d6cf3d18b10e06fe64f726608e4739e8a9f"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
