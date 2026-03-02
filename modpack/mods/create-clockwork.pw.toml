@@ -1,13 +1,13 @@
 name = "VS: Clockwork"
-filename = "clockwork-0.5.4.5.jar"
+filename = "clockwork-0.5.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6442f203c88a6f8897bac5445975fde91d4570b0"
+hash = "f5e59e9ddb4d3df1a147920dd290b038569ed037"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7451190
+file-id = 7402318
 project-id = 807792
