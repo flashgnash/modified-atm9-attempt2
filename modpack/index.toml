@@ -4185,6 +4185,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/cosmic-horizons-cosmos.pw.toml"
+hash = "828e4ab1af30805e7e2f1c715dd276cf51289538af3bdefde07dcbad85adffc6"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "ea56fed05fb38c1390a59961dabc757c5c9cb7a6adba3a5e0e1203971f082fd7"
 metafile = true
@@ -5552,6 +5557,11 @@ metafile = true
 [[files]]
 file = "mods/ssr.pw.toml"
 hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
+metafile = true
+
+[[files]]
+file = "mods/starlance.pw.toml"
+hash = "9efd40a139a9a8db0d39653aae71db9aecc336c733ad0b7e7caee9473e10a70c"
 metafile = true
 
 [[files]]
