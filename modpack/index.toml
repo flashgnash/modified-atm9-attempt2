@@ -4201,7 +4201,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "b706e8b674e39cb02957f642b0c1010152abc3045230022cedcb70545611bfb3"
+hash = "7861d854b484ac9730684b3f1ea9f273c382eef99767bb0b02d81589fc3a429a"
 metafile = true
 
 [[files]]
@@ -4211,32 +4211,32 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "8d7be1c89a4fee27fc118aef84812b6c0ada540c4bd364fa1bd77c36bc04700a"
+hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "c2ee46d175b9a6ab59dcbf24567fcb68253d6b039dbb2ce3dac0c1332aac8fa9"
+hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
 metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
+hash = "51c14b5b61109fee1c9d3c04b6bd91b45a641d32435811d88dccffae0fd03d60"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "a3f0acb8e8f174555b615ff1da684ebfe0817dc4d43df12b6d8def9214c759ed"
+hash = "10ff57a05166b2c6454d271697428cfdf01dcae3e33138aa96d83ad93ff1c4d6"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "3e0fdd1d033fabe1be9660e05ad03ca19a7defdded1b6b4244d89d55fe50aec1"
+hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
 metafile = true
 
 [[files]]
@@ -5301,7 +5301,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "5bac1063d07c12c591dbcb1d7aea39ee863c73e84951334ebeec2754d22843da"
+hash = "b20a87de5c777553983e6edaaedd11577d2aa0619ba93428bd550fd0ad9e535b"
 metafile = true
 
 [[files]]
@@ -5466,7 +5466,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "4fec739a4839595c03959f68288025403af981d4a258c6eee47f2e32e4940c45"
+hash = "9b59e9b08c1281a521777e9924dab6c258e42c5d1c06852b9ebe9304021aec42"
 metafile = true
 
 [[files]]

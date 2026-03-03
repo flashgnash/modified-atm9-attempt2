@@ -1,13 +1,13 @@
 name = "VS: Clockwork"
-filename = "clockwork-forge-0.5.0-[MELTING_POINT]-HOTFIX-1.jar"
+filename = "clockwork-0.5.4.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "97178fb0e73a4d1e6d757b388dd36f95f52440f8"
+hash = "6442f203c88a6f8897bac5445975fde91d4570b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7378342
+file-id = 7451190
 project-id = 807792
