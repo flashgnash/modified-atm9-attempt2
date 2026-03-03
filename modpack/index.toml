@@ -4636,7 +4636,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "e17f96677912ca1e42ab05ba1e959226c7b5244f6a24eb573ace63f57e6c222f"
+hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
 metafile = true
 
 [[files]]
@@ -5581,7 +5581,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+hash = "40a73f377f8dcf95c0e801bdc69e68bc4a2d29ec0bcf17f4dcb1a78f887021d1"
 metafile = true
 
 [[files]]
@@ -5767,11 +5767,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-logistics.pw.toml"
-hash = "fb4bcf2e0901d38b7f337331bf76b0320e4e3167e3f884f5780e7c5c4eb6a78f"
 metafile = true
 
 [[files]]
