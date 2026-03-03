@@ -5560,11 +5560,6 @@ hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
 metafile = true
 
 [[files]]
-file = "mods/starlance.pw.toml"
-hash = "9efd40a139a9a8db0d39653aae71db9aecc336c733ad0b7e7caee9473e10a70c"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "0452ea33020c62f7ec06b88cfd5dd9f33d8923d68ecd1512132730e388eb4bf5"
 metafile = true
@@ -5790,16 +5785,6 @@ hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-sails.pw.toml"
-hash = "fb7cbe0b494bc30aad1da34120f0474822ac0186dd1bcd0d53beb149afa0846a"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "a7c51cc5f8258777383ad93677a9cfe4dbef600eb4f6056bcfdc123e5cdbcf82"
-metafile = true
-
-[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "1e7c52e8200d178f66c84026d54dccf0fe75f862b725088325672049c336caca"
 metafile = true
@@ -5822,21 +5807,6 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "4b0e1b5ed69e0d92894a079ae017095388b40e32b5174cd1ace55edaa6329621"
-metafile = true
-
-[[files]]
-file = "mods/vs-chunkloader.pw.toml"
-hash = "66aef10797dd01954ae53adeb34e6af990c04fd492618ec95ed7a6aa865e710e"
-metafile = true
-
-[[files]]
-file = "mods/vs-hose-connectors.pw.toml"
-hash = "0bf2d96056784bbba702ec3e6d732b4947063bf20ba8e7f32555c11bf02355b5"
-metafile = true
-
-[[files]]
-file = "mods/vs-ship-retrieval-service.pw.toml"
-hash = "647e7687e23c3a2b52510c06fd4f028506babbe9a4f4b30da1eadaf53dbbed99"
 metafile = true
 
 [[files]]
