@@ -4205,11 +4205,6 @@ hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "b706e8b674e39cb02957f642b0c1010152abc3045230022cedcb70545611bfb3"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
@@ -4227,6 +4222,11 @@ metafile = true
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "97c5c114fa0b91111eabfd94e2207e619586f11ea527e1ad79e20d078c0277e1"
 metafile = true
 
 [[files]]
@@ -5347,11 +5347,6 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "02bdcb95ad370287103eacc5edc4fb84f0054a509de3b5a5699bf35f0c9f0dce"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "5bac1063d07c12c591dbcb1d7aea39ee863c73e84951334ebeec2754d22843da"
 metafile = true
 
 [[files]]
