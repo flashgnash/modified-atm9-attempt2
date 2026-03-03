@@ -4230,11 +4230,6 @@ hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
 metafile = true
 
 [[files]]
-file = "mods/create-propulsion.pw.toml"
-hash = "97c5c114fa0b91111eabfd94e2207e619586f11ea527e1ad79e20d078c0277e1"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a3f0acb8e8f174555b615ff1da684ebfe0817dc4d43df12b6d8def9214c759ed"
 metafile = true
@@ -5792,11 +5787,6 @@ metafile = true
 [[files]]
 file = "mods/villager-tools.pw.toml"
 hash = "30357e1837bfa39b3cc6d80bdcf07849027186561f3037851d5e963e5bda0d7a"
-metafile = true
-
-[[files]]
-file = "mods/vlib.pw.toml"
-hash = "0b3c359b8f7636c2cdbb003dd1d8ba291d10e96d778fd7e4f56e925bcc11ace8"
 metafile = true
 
 [[files]]
