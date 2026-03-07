@@ -4041,6 +4041,11 @@ hash = "8517132706f5a99edaf7705b6a4c2c934972dabcacca279f6d8abdef874d9949"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1.20.1-forge-1.116.1.jar"
 hash = "fffa7eac48606dbc9f8e88ddf6c09ef218f0004b42f165f5476b700788806c9e"
 
@@ -4107,6 +4112,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -4280,6 +4290,16 @@ hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
+file = "mods/cyberware-reforged.pw.toml"
+hash = "bde16d2eaa446d5089bb443d87ada09567a9eab99dd380be00d147361ed35975"
+metafile = true
+
+[[files]]
+file = "mods/cyberware-visible-modifications.pw.toml"
+hash = "a6849292e73b5a00fcb8359a05c6001858dc49390a7cd07de198d07cf2ecd351"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "47e99ba51ab53b80a86eb3a2a660414784ed31c7cb1f386a74e457c8f1fe0637"
 metafile = true
@@ -4322,6 +4342,11 @@ metafile = true
 [[files]]
 file = "mods/delightful.pw.toml"
 hash = "5ca70c9ee479f137ba0c3df149c1660f0204db373f2b127a788cad502efa19c6"
+metafile = true
+
+[[files]]
+file = "mods/dglib.pw.toml"
+hash = "f7d1ca8e6a910423ddf9aecdb64fe66a09d266830d6df499ba7ba79747860b57"
 metafile = true
 
 [[files]]
@@ -5075,6 +5100,11 @@ hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
+file = "mods/modular-force-field-systems.pw.toml"
+hash = "90a52397eaa571fee579e9bf59868a63bca0efbe360853125050c8c9fc914844"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
@@ -5317,6 +5347,36 @@ metafile = true
 [[files]]
 file = "mods/productivetrees.pw.toml"
 hash = "1c2a0b908e7286eac6831ecce7c2e31c7626ee55bf2a610f0f1c72147038c989"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "5cbc12354a9183ff5413ce4db81b28014049207f2cc815050776b295ab5ce404"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "aca496b9d88e2a964ff830f16fec7fb9358e56e0ad4115bb404c4ca8fab20b51"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "9b0038008e5fa886b2df85cdba9ef7b371ef08dea77cea2113947d035358b23d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "33c719d40f4921fa804301d078be166ee3d4a7bd08c9c1281634062b8718b476"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "8d58a3e519dfb00b7e494d3aaecb005f549b2491495507013fc5b309b49cd0ea"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "563f167ca45d026339e32310623fdf2daefd89c258936e32b566d2f46c404617"
 metafile = true
 
 [[files]]
@@ -5797,6 +5857,11 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "4b0e1b5ed69e0d92894a079ae017095388b40e32b5174cd1ace55edaa6329621"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "147b40366d43bfb6c894bb38a5795b767b6b1981d5c27a56c0f79ab2e6570eaf"
 metafile = true
 
 [[files]]
