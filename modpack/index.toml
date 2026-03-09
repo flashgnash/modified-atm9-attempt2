@@ -5065,6 +5065,11 @@ hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
 metafile = true
 
 [[files]]
+file = "mods/mffs.pw.toml"
+hash = "3614b36f0363233e3e12965b9610115cba589a09777a66472cd1a7e5dd564c9b"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "30475fa421dc8bff9a2a3ba56638a928a5f0d088dc41918dda7f583b76871f7c"
 metafile = true
