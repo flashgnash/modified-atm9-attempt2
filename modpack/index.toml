@@ -5105,6 +5105,11 @@ hash = "90a52397eaa571fee579e9bf59868a63bca0efbe360853125050c8c9fc914844"
 metafile = true
 
 [[files]]
+file = "mods/modular-forcefields.pw.toml"
+hash = "6d2e27ff5a480020f0f64fa4d3da839f629294d4e9f1952ba2ae7c0c169693c9"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
@@ -5837,11 +5842,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "1e7c52e8200d178f66c84026d54dccf0fe75f862b725088325672049c336caca"
 metafile = true
 
 [[files]]
