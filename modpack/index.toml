@@ -5105,16 +5105,6 @@ hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
-file = "mods/modular-force-field-systems.pw.toml"
-hash = "90a52397eaa571fee579e9bf59868a63bca0efbe360853125050c8c9fc914844"
-metafile = true
-
-[[files]]
-file = "mods/modular-forcefields.pw.toml"
-hash = "6d2e27ff5a480020f0f64fa4d3da839f629294d4e9f1952ba2ae7c0c169693c9"
-metafile = true
-
-[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
