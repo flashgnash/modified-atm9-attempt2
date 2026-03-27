@@ -5255,6 +5255,11 @@ hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "21a65898c3292880bf020c3c7e1e9da3e3725b046625d24cb5e0742d342621a0"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "12b55a4d4350a4447d6f9427ec40e742ad6823b0aaeb58c08cd766ea967c9fbe"
 metafile = true
@@ -5452,6 +5457,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "fa3c0a19b839ec89df408368ae4886ffa36179c1973335ce7cd4654f2fa842ca"
 metafile = true
 
 [[files]]
