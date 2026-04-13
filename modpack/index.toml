@@ -4300,6 +4300,11 @@ hash = "a6849292e73b5a00fcb8359a05c6001858dc49390a7cd07de198d07cf2ecd351"
 metafile = true
 
 [[files]]
+file = "mods/cyborg-robot-chicken-returns.pw.toml"
+hash = "67ee64d9493740c75a4e5d1da5cca2f45c743bc76287aa54b0a0a005b94e546d"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "47e99ba51ab53b80a86eb3a2a660414784ed31c7cb1f386a74e457c8f1fe0637"
 metafile = true
